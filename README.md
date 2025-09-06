@@ -4,7 +4,7 @@
 
 A fully interactive, modern web application for visualizing and analyzing cricket player statistics. This dashboard is built with Next.js and features dynamic charts, a responsive design, and an integrated AI chatbot powered by the Google Gemini API to answer player-related queries.
 
-**Live Demo:** [**Add Your Deployed Vercel Link Here!**]
+
 
 ---
 
@@ -52,8 +52,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/DipayanDasgupta/cricket_dashboard.git
+    cd cricket_dashboard
     ```
 
 2.  **Install dependencies:**

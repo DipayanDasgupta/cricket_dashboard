@@ -77,15 +77,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
 
-## Deployment on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new). Follow the steps in the guide below.
-
-[**Click here for the detailed Vercel Deployment Guide**](#hosting-on-vercel)
-
----
 
 ## Project Structure
 
